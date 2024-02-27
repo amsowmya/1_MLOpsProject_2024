@@ -4,9 +4,9 @@ dnspython
 pandas
 numpy
 ensure
-pytest
 
-# dev requirements
+
+# dev requirements -
 
 pytest==7.1.3
 tox==3.25.1

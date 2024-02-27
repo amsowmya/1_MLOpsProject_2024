@@ -3,7 +3,7 @@
 # such as buld tool used package name version author license and dependencies
 
 [build-system]
-requires = ['setuptools>=42.0', "wheel]
+requires = ['setuptools>=42.0', "wheel"]
 build-backend = "setuptools.build_meta
 
 [tool.pytest.ini_options]
